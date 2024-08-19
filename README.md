@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Imtiaj Hossain</h1>
-<h3 align="center">As a recent graduate with a BSc in Computer Science and Engineering from BRAC University, I am deeply passionate about data science and its potential to drive meaningful insights.</h3>
+<h3 align="center">As a recent graduate with a BSc in Computer Science and Engineering from BRAC University, I am deeply passionate about <b>Data Science</b> and its potential to drive meaningful insights.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imtiajemon&label=Profile%20views&color=0e75b6&style=flat" alt="imtiajemon" /> </p>
 
