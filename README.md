@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Data Science, Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://imtiajemon.github.io/portfolio/](https://imtiajemon.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://imtiajemon.github.io/portfolio/)
 
-- 📝 I regularly write articles on [https://medium.com/@imtiaj.hossain](https://medium.com/@imtiaj.hossain)
+- 📝 I regularly write articles on [Medium](https://medium.com/@imtiaj.hossain)
 
 - 📫 How to reach me **imtiaj.10110@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aB6jEz-Q-MsimkWh9k29tE8I3zx_FZiB/view?usp=sharing](https://drive.google.com/file/d/1aB6jEz-Q-MsimkWh9k29tE8I3zx_FZiB/view?usp=sharing)
+- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1aB6jEz-Q-MsimkWh9k29tE8I3zx_FZiB/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
