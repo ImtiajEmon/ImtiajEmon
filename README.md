@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science, Machine Learning**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://imtiajemon.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://imtiajemon.github.io/portfolio/)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@imtiaj.hossain)
 
